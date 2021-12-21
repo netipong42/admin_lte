@@ -13,7 +13,6 @@
     <!-- เนื้อหา -->
     <h1>Hello</h1>
     <!-- เนื้อหา -->
-    <?php require("footer.php") ?>
     <?php require("link_footer.php") ?>
 </body>
 

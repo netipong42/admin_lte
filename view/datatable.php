@@ -20,15 +20,16 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>1</td>
-                <td>2</td>
-                <td>3</td>
-            </tr>
+            <?php for ($i = 1; $i <= 50; $i++) :  ?>
+                <tr>
+                    <td> <?php echo $i ?>Lorem, ipsum dolor.</td>
+                    <td> <?php echo $i ?>Lorem, ipsum dolor.</td>
+                    <td> <?php echo $i ?>Lorem, ipsum dolor.</td>
+                </tr>
+            <?php endfor  ?>
         </tbody>
     </table>
     <!-- เนื้อหา -->
-    <?php require("footer.php") ?>
     <?php require("link_footer.php") ?>
     <script>
         $(function() {

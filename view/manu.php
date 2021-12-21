@@ -70,7 +70,7 @@
                         <li class="nav-item">
                             <a href="index.php" class="nav-link">
                                 <em class="nav-icon fas fa-th"></em>
-                                <p>หน้าแรก</p>
+                                <p>Home</p>
                             </a>
                         </li>
                         <li class="nav-item">

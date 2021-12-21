@@ -13,7 +13,6 @@
     <!-- เนื้อหา -->
 
     <!-- เนื้อหา -->
-    <?php require("footer.php") ?>
     <?php require("link_footer.php") ?>
 </body>
 
