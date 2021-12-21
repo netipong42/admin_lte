@@ -25,4 +25,4 @@
   <!-- Alert -->
   <link rel="stylesheet" href="../../assets/theme/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css">
   <!-- Mystyle -->
-  <link rel="stylesheet" href="../../assets/theme/style/style.css">
+  <link rel="stylesheet" href="../../assets/style/style.css">
